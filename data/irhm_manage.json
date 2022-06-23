@@ -1,0 +1,41 @@
+[
+  {
+    "body": {
+      "username": "我是老6",
+      "mobile": "17612535994",
+      "workNumber": "22"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  {
+    "body": {
+      "username": "我是老6",
+      "mobile": "17612535994",
+      "workNumber": "22",
+      "formOfEmployment": "1"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  {
+    "body": {
+      "username": "我是老6",
+      "mobile": "17612535994",
+      "timeOfEntry": "2022-04-01",
+      "formOfEmployment": "1",
+      "workNumber": "137",
+      "departmentName": "人事部门",
+      "departmentId": "1514178739884359680",
+      "correctionTime": "2022-04-29T16:00:00.000Z"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  }
+]
